@@ -1,0 +1,19 @@
+
+
+
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "accountDS": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "loopbacknew",
+    "username": "root",
+    "password": "root",
+    "name": "accountDS",
+    "connector": "mysql",
+    "connectTimeout": 20000
+  }
+}
